@@ -1,0 +1,273 @@
+names:
+- ba chi Luoc
+- ba chi song
+- bach tuoc hap
+- bach tuoc nuong
+- bach tuoc sa tac
+- bach tuoc song
+- bach tuoc xao sa te
+- banh bao chien
+- banh beo
+- banh bot loc
+- banh chung
+- banh hoi
+- banh kep
+- banh khot
+- banh mi
+- banh mi nuong
+- banh naan
+- banh nam
+- banh ngot
+- banh phong tom
+- banh tet
+- banh xeo
+- banh xeo Nhat
+- bap bo nhung giam
+- bap cai xao
+- bap coi luoc
+- bap xao
+- bi ngoi
+- bia
+- bit tet
+- bo ap chao
+- bo cuon kim cham
+- bo duc lo
+- bo huc
+- bo luc lac
+- bo xao
+- bun
+- bun bo
+- bun cha
+- buoi
+- burrito
+- ca chien
+- ca hap
+- ca hoi ap chao
+- ca kho
+- ca kho nuong
+- ca loc
+- ca ngu xong khoi
+- ca nuong
+- ca phe
+- ca song
+- ca tim nuong
+- cang ghe rang muoi ot
+- canh
+- canh ca chua
+- canh ca tim
+- canh cai
+- canh chua
+- canh rau
+- cha
+- cha ram
+- cha thu
+- cha tom
+- chan ga nuong
+- chan ga sa tac
+- chanh
+- chao
+- chao ca loc
+- chim cut nuong
+- chuoi nep nuong
+- coca cola
+- cocktail
+- com ca ri
+- com chien
+- com trang
+- cua hap
+- cua ram me
+- cut lon xao me
+- cuu ham
+- dau hu chien
+- dau hu ham
+- dau hu xao
+- dau kho nam
+- dau phong rang
+- de
+- de nuong
+- doi nuong
+- dua hau
+- dua leo
+- dun dua
+- ech chien mam
+- ech song
+- ech xao xa ot
+- fanta
+- ga bo xoi
+- ga chien
+- ga duc lo voi rau cu
+- ga luoc
+- ga nuong
+- ga quay
+- ga ran
+- ga xao nam
+- gan ga
+- ghe hap
+- ghe rang muoi
+- ghe xao me
+- gio tiem
+- goi
+- goi bao tu
+- goi bo
+- goi cuon
+- goi tai heo
+- hamburger
+- hau hap
+- hau nuong mo hanh
+- hau nuong pho mai
+- hau song
+- heo luoc
+- heo nuong
+- heo quay
+- heo xao
+- hummus
+- kho qua
+- khoai tay chien
+- khoai tay nghien
+- kimbab
+- kimchi
+- la ghim
+- lau
+- lau ga
+- lau hai san
+- lau thai
+- long ga xao
+- long gia chien
+- long hap
+- long xao
+- mam ca
+- mam nem
+- mam ngot
+- mam ot
+- mam ot toi
+- mam tom
+- mang
+- mang luoc
+- me ga
+- mi
+- mi xao
+- mien xao
+- mit
+- muc chien
+- muc hap
+- muc muoi
+- muc nuong
+- muc song
+- muc xao
+- muc xao cai chua
+- muc xao chua ngot
+- muoi hai san
+- muoi ot chanh
+- muoi tieu chanh
+- muoi tieu xanh
+- nam
+- nam bo hap
+- nam xao
+- nem chua
+- nem nuong sa
+- nem ran
+- ngheu hap
+- ngheu hap sa
+- ngheu song
+- ngheu xot thai
+- ngu coc
+- nhum nuong mo hanh
+- nui
+- nuoc cam ep
+- nuoc dua
+- nuoc ep ca chua
+- nuoc ep trai cay
+- nuoc lau
+- nuoc lau thai
+- oc buu hap
+- oc chien bo
+- oc dinh xao
+- oc hap
+- oc huong hap
+- oc huong xao
+- oc len xao dua
+- oc ngon tay nuong mo hanh
+- oc xao
+- oc xao me
+- oi
+- ot
+- pho mai que
+- pizza
+- quyt
+- rau
+- rau cu
+- rau cu hap
+- rau cu muoi
+- rau cu xao
+- rau cu xao bo
+- rau gia
+- rau lau
+- rau muong luoc
+- rau muong xao
+- rau muong xao toi
+- rau ram
+- ruou
+- salad
+- salad ca ngu
+- san xao
+- sandwich
+- sandwich tom hum
+- sashimi
+- seo nuong mo hanh
+- shell nuong mo hanh
+- so hap
+- so huyet nuong mo hanh
+- so song
+- soju
+- strong bow
+- sun ga chien mam
+- suon xao chua ngot
+- sup
+- sushi
+- tai heo ngam
+- tai heo ngu vi
+- tempura
+- thit dong
+- thit nau mang
+- tom chay toi
+- tom chien bot
+- tom hap
+- tom hum nuong pho mai
+- tom hum song
+- tom luoc
+- tom nuong
+- tom rang muoi
+- tom sa tac
+- tom song
+- tom tit
+- tom tit hap
+- tom tit nuong
+- tom xao chua ngot
+- tom xao rau cu
+- tortillas
+- tortillas voi guacamole
+- tra
+- trai cay
+- trung chien
+- trung cut
+- trung vit lon
+- tuong ot
+- tuy bo nuong
+- uc ga
+- vit quay
+- waffle
+- xi dau
+- xoai
+- xoi
+- xuc xich nuong
+- xuc xich xao
+nc: 262
+roboflow:
+  license: CC BY 4.0
+  project: nhau-mon-emt
+  url: https://universe.roboflow.com/minh-ld18876-sinhvien-hoasen-edu-vn/nhau-mon-emt/dataset/1
+  version: 1
+  workspace: minh-ld18876-sinhvien-hoasen-edu-vn
+test: ../test/images
+train: "Nh\u1EADu-m\xF4n-EmT-1/train/images"
+val: "Nh\u1EADu-m\xF4n-EmT-1/valid/images"
